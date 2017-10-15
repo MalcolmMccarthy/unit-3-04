@@ -1,0 +1,88 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{143, 56}, {247, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "45F05CAA-6839-4717-B52B-BC7EF6E31534",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Enter a year:",
+          "name" : "text_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{143, 225}, {247, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "486D499D-F7D8-478B-9526-6D7A74FA57D4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "answer_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{143, 116}, {247, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "8AFC64E1-F759-482C-98E3-FBF36F601759",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "year_textfield",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{143, 173}, {247, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "check_button_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Check",
+          "uuid" : "FCE1396D-5DF7-4777-B975-0323BB1CD001",
+          "class" : "Button",
+          "name" : "check_button_touch_up_inside",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

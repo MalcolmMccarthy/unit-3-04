@@ -1,7 +1,7 @@
-#
-#
-#
-#
+#created by malcolm mccarthy
+#in october 2017
+#for ics3u
+#program determines if the entered year is a leap year or not
 import ui
 def check_button_touch_up_inside(sender):
     year_entered = int(view['year_textfield'].text)
